@@ -5,6 +5,6 @@
   * a simple backtracking/exhaustive search solution
 
 ### refining graphcol_bt
-* [part_A](graphcol_bt/part_A.ipynb) 
+* [part_A](graphcol-bt/part_A.ipynb) 
   * loadgraph for dimacs col (do not take it too seriously)
   
