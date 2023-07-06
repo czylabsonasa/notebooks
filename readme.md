@@ -3,4 +3,8 @@
   * basic Graph.jl usage
 * [part_B](graph-coloring-with-networkx/part_B.ipynb)
   * a simple backtracking/exhaustive search solution
+
+### refining graphcol_bt
+* [part_A](graphcol_bt/part_A.ipynb) 
+  * loadgraph for dimacs col (do not take it too seriously)
   
