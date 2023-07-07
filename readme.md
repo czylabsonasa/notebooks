@@ -6,5 +6,6 @@
 
 ### refining graphcol_bt
 * [part_A](graphcol-bt/part_A.ipynb) 
-  * loadgraph for dimacs col (do not take it too seriously)
+  * loadcol for dimacs col files (do not take it too seriously)
+  * some tests w/ the greedy
   
